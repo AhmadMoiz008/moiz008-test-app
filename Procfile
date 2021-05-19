@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Moiz008_test_app.py
+web: sh setup.sh && streamlit run moiz008_test_app.py
